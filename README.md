@@ -1,6 +1,6 @@
-# Todo Application
+# Instagram Clone SPA 
 
-A **Todo Application** built as a **CRUD (Create, Read, Update, Delete)** application to manage tasks efficiently. This project demonstrates core principles of software development, including RESTful APIs, database integration, and frontend design.
+A **This project is a Single Page Application (SPA) clone of Instagram, application built using React or another modern frontend JavaScript framework..
 
 ---
 
@@ -16,50 +16,35 @@ A **Todo Application** built as a **CRUD (Create, Read, Update, Delete)** applic
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](https://github.com/user-attachments/assets/a470664b-18d2-434a-b27e-011a7015fb8f)
+![Home Page](https://github.com/user-attachments/assets/af860396-4879-48d3-a0f5-ca3847736a98)
 
 ![Home Page](https://github.com/user-attachments/assets/d1c3e342-5197-43e2-8d80-38dd5111e860)
 
-### Welcome Page
+### About Page
 
-![Welcome Page](https://github.com/user-attachments/assets/63d43ffb-7f9f-4df4-9416-6540be8ea65a)
+![Welcome Page](https://github.com/user-attachments/assets/7878bd4c-da50-4535-bc00-734f9c102d57)
 
-### Todo Page
-![Add Task](https://github.com/user-attachments/assets/08f6dd8e-7531-4d19-aee9-f4f7569d3898)
+### RandonLink Page
+![Randon Link](https://github.com/user-attachments/assets/990c07b6-6b7f-4ece-8528-265b206134a2)
 
-### Update Page
-![Update Page](https://github.com/user-attachments/assets/55a16ba1-e1a3-40a8-84f3-3e1deecf8d3c)
-![Update Page](https://github.com/user-attachments/assets/9aa67490-0186-4b9d-86d6-0759150bba4d)
+### Profile Page
+![Profle Page](https://github.com/user-attachments/assets/bda59e52-8a23-4fea-8b4a-02c80cdfc372)
+![Profle Page](https://github.com/user-attachments/assets/e760fb11-2750-4031-9aab-a3206cab943a)
 
-### Delete Task
-![Delete Task](https://github.com/user-attachments/assets/48d4e470-274a-45ae-bc1c-5ed5e4176464)
-
-### H2 Database
-
-![H2 Database](https://github.com/user-attachments/assets/088a9b4f-2ccd-42bd-bd5c-ebbfa84c60e5)
-
-![H2 Database](https://github.com/user-attachments/assets/00ee02f8-eb46-454d-aa4b-d79dad8d2df6)
-
-![H2 Database](https://github.com/user-attachments/assets/154951a6-55b2-464c-9cc0-f58934ab8fe2)
-
+### Instagram Feed Page
+![Delete Task](https://github.com/user-attachments/assets/3b9779a3-68a7-4d2c-9263-4d6a79a23719)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend**: [Spring Boot](https://spring.io/projects/spring-boot)
-- **Frontend**: HTML, CSS,  (JSP / JSTL tag library)
-- **Database**: MySQL / H2
-- **Tools**: VS Code, Git
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Data**: Array of object
+- **Tools**: VS Code, Git, GitHub
 
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Install Java 17+.
-- Install [Maven](https://maven.apache.org/install.html).
-- Install MySQL.
 
 ### Setup
 
@@ -84,9 +69,9 @@ A **Todo Application** built as a **CRUD (Create, Read, Update, Delete)** applic
 
 ## 🎯 Goals of the Project
 
-- **Learn and apply CRUD operations.**
-- **Build a full-stack application.**
-- **Understand the integration of frontend, backend, and database systems.**
+- **Learn and apply conditional & dynamic rendering operations in JavaScript.**
+- **Build a frontend and dynamic rendering application.**
+- **Understand the integration of frontend and array of object with dynamic rendering.**
 
 ---
 
