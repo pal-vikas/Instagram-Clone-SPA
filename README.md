@@ -50,8 +50,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/pal-vikas/Todo-Application.git
-   cd Todo-Application
+   git clone https://github.com/pal-vikas/Instagram-Clone-SPA.git
+   cd Instagram-Clone-SPA
 2. **Configure Database**:
 -Update the database credentials in application.properties.
 
