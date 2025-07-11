@@ -1,6 +1,6 @@
 # Instagram Clone SPA 
 
-**This project is a Single Page Application (SPA) clone of Instagram, application built using React or another modern frontend JavaScript framework..
+**This project is a Single Page Application (SPA) clone of Instagram, application built using React or another modern frontend JavaScript framework**.
 
 ---
 
