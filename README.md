@@ -1,6 +1,6 @@
 # Instagram Clone SPA 
 
-A **This project is a Single Page Application (SPA) clone of Instagram, application built using React or another modern frontend JavaScript framework..
+**This project is a Single Page Application (SPA) clone of Instagram, application built using React or another modern frontend JavaScript framework..
 
 ---
 
@@ -18,7 +18,7 @@ A **This project is a Single Page Application (SPA) clone of Instagram, applicat
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/af860396-4879-48d3-a0f5-ca3847736a98)
 
-![Home Page](https://github.com/user-attachments/assets/d1c3e342-5197-43e2-8d80-38dd5111e860)
+![Home Page](https://github.com/user-attachments/assets/db38bbb9-3970-49c4-9d0a-80b104dd40a1)
 
 ### About Page
 
