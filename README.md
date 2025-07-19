@@ -6,10 +6,10 @@
 
 ## 🌟 Features
 
-- **Add Tasks**: Quickly add new tasks to your to-do list.
-- **View Tasks**: View your tasks in an organized manner.
-- **Update Tasks**: Modify existing tasks to keep your list updated.
-- **Delete Tasks**: Remove completed or unnecessary tasks.
+- **Add Tasks**: .
+- **View Tasks**: .
+- **Update Tasks**: .
+- **Delete Tasks**: .
 
 ---
 
