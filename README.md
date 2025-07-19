@@ -6,7 +6,7 @@
 
 ## 🌟 Features
 
-- **Add Tasks**: .
+- **Add Tasks**:ADD TASKS .
 - **View Tasks**: .
 - **Update Tasks**: .
 - **Delete Tasks**: .
